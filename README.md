@@ -35,7 +35,8 @@ Propomos a criação da tela com as seguintes premissas:
 | *Armazenamento (opcional)* | *Livre Escolha*       |
 
 ## Dicas
-- Mais importante do que o seu conhecimento em framework A ou B, iremos avaliar o seu conhecimento com Javascript / ECMAScript  e CSS / SASS;
+- Mais importante do que o seu conhecimento em framework A ou B, iremos avaliar o seu conhecimento com Javascript / ECMAScript;
+- Além disto, também é muito importante para nós entendermos o seu nível de conhecimento em JTML semântico e CSS / SASS;
 - Também vamos levar em conta a organização e estrutura do código desenvolvido;
 - Tente reutilizar sempre que possível o código desenvolvido;
 - Esperamos que o layout fique o mais próximo possível do layout fornecido, além de estar flexível (responsivo) conforme a largura da tela;
