@@ -19,24 +19,23 @@ Propomos a criação da tela com as seguintes premissas:
 - Com a disponibilização deste icone favoritar, deverá ser feito uma tela secundária, onde o candidato poderá visualizar todas as suas vagas favoritadas, caso a tenha feito.
 
 ## Orientações
-- Link do figma com o layout a ser seguido TODO FIGMA LAYOUT;
+- Todos os arquivos necessários para o teste podem ser baixados [aqui](https://s3.amazonaws.com/files.elo7.com.br/candidatos/front-end/teste.zip);
 - Os dados das vagas devem ser obtitos desta [API](http://www.mocky.io/v2/5d6fb6b1310000f89166087b);
 - Infelizmente, os dados obtidos pelo mock acima não não foram tratados e, por isso, devem ser seguidos as seguintes premissas para exibição das vagas ao candidato:
   - Remover as vagas inativas;
   - Para os casos em que não tem a localização, exibir  a palavra "Remoto" no lugar da localidade.
-  - Todos os arquivos necessários para o teste podem ser baixados [aqui](https://s3.amazonaws.com/files.elo7.com.br/candidatos/front-end/teste.zip)
 - *Item opcional*: Implemente algum mecanismo para salvar as vagas favoritadas pelo candidato, podende ser: localStorage, cookie, sessionStorage, arquivo .txt, etc. Fique a vontade para escolher;
 
 ## Premissas
-| Abrangência                | O que esperamos      |
-| :------------------------: | -------------------- |
-| Linguagem                  | Javascript/Typescrit |
-| Estilo                     | Css/SASS             |
-| Requisição                 | Fetch/Axios          |
-| *Armazenamento (opcional)* | *Livre Escolha*      |
+| Abrangência                | O que esperamos         |
+| :------------------------: | ----------------------- |
+| Linguagem                  | Javascript/ ECMAScript  |
+| Estilo                     | Css/SASS                |
+| Requisição                 | Fetch/Axios             |
+| *Armazenamento (opcional)* | *Livre Escolha*         |
 
 ## Dicas
-- Mais importante do que o seu conhecimento em framework A ou B, iremos avaliar o seu conhecimento com Javascript / Typescript e CSS / SASS;
+- Mais importante do que o seu conhecimento em framework A ou B, iremos avaliar o seu conhecimento com Javascript / ECMAScript  e CSS / SASS;
 - Também vamos levar em conta a organização e estrutura do código desenvolvido;
 - Tente reutilizar sempre que possível o código desenvolvido;
 - Esperamos que o layout fique o mais próximo possível do layout fornecido, além de estar flexível (responsivo) conforme a largura da tela;
