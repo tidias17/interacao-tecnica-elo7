@@ -27,12 +27,12 @@ Propomos a criação da tela com as seguintes premissas:
 - *Item opcional*: Implemente algum mecanismo para salvar as vagas favoritadas pelo candidato, podende ser: localStorage, cookie, sessionStorage, arquivo .txt, etc. Fique a vontade para escolher;
 
 ## Premissas
-| Abrangência                | O que esperamos         |
-| :------------------------: | ----------------------- |
-| Linguagem                  | Javascript/ ECMAScript  |
-| Estilo                     | Css/SASS                |
-| Requisição                 | Fetch/Axios             |
-| *Armazenamento (opcional)* | *Livre Escolha*         |
+| Abrangência                | O que esperamos       |
+| :------------------------: | --------------------- |
+| Linguagem                  | Javascript/ECMAScript |
+| Estilo                     | Css/SASS              |
+| Requisição                 | Fetch/Axios           |
+| *Armazenamento (opcional)* | *Livre Escolha*       |
 
 ## Dicas
 - Mais importante do que o seu conhecimento em framework A ou B, iremos avaliar o seu conhecimento com Javascript / ECMAScript  e CSS / SASS;
