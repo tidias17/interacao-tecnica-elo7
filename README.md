@@ -20,15 +20,16 @@ Crie um repositório no seu Github com a resolução da tarefa descrita abaixo e
 | :------------------------: | ---------------------         
 | Linguagem                  | Javascript / ECMAScript         
 | Estilo                     | Css / Sass                      
-| Requisição                 | [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/fetch) / [Axios](https://axios-http.com/docs/intro)                   
-| *Framwork (opcional)*      | [Svelte](https://svelte.dev/), [React](https://reactjs.org/), [Vue](https://vuejs.org/) ou [Angular](https://angular.io/)
+| Requisição                 | [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/fetch) / [Axios](https://axios-http.com/docs/intro)
+| *Framework (opcional)*      | [Svelte](https://svelte.dev/), [React](https://reactjs.org/), [Vue](https://vuejs.org/) ou [Angular](https://angular.io/)
 
 ## Dicas
 - Mais importante do que o seu conhecimento em framework A ou B, iremos avaliar o seu conhecimento com Javascript / ECMAScript;
 - Além disto, também é muito importante para nós entendermos o seu nível de conhecimento em HTML semântico e CSS / SASS;
 - Também vamos levar em conta a organização e estrutura do código desenvolvido;
 - Além disto, temos uma preocupação muito grande também com a performance da aplicação. Velocidade de carregamento da página é um quesito importante para nós;
-- Esperamos que o layout fique o mais próximo possível do layout fornecido, e se você fizer um layout responsivo melhor ainda :smirk: ;
+- Esperamos que o layout fique o mais próximo possível do layout fornecido, e se você fizer um layout responsivo melhor ainda :smirk:;
+- Reforçamos que o uso de framework é opcional, ou seja, você pode implementar sua solução usando apenas a API padrão de Javascript do navegador. Caso você use um framework, avaliaremos também seu domínio do framework;
 - Caso deseje aprimorar o template proposto, fique à vontade. Se algo não estiver óbvio, assuma o que for mais claro para você e documente suas suposições.
 
 ## Imagem base para a criação da landing page
